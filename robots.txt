@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /ajax/
+Allow: /
+
+Sitemap: https://pelletierconstructiongroup.com/sitemap.xml
