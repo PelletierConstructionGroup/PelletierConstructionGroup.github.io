@@ -2543,6 +2543,7 @@ body.video-react-full-window .video-react-fullscreen {
   font-size: 1.5rem;
 }
 .privacy-cookies-banner {
+  display:none;
   --privacy-cookies-banner--margin: 12px;
   position: fixed;
   margin: var(--privacy-cookies-banner--margin, 12px);
@@ -2565,6 +2566,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 @media only screen and (min-width: 480px) {
   .privacy-cookies-banner {
+    display:none;
     --privacy-cookies-banner--margin: 16px;
     max-width: 380px;
   }
