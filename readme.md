@@ -12,7 +12,7 @@ Pelletier Construction Group specializes in home remodeling and construction pro
 - Testimonials: Dedicated page for customer testimonials showcasing client satisfaction and feedback.
 - Responsive Design: Optimized for both desktop and mobile devices.
 - SEO Optimized: Fully indexed by search engines with detailed meta tags for improved visibility.
-- Social Media Integration: Direct links to our social media pages on Houzz, Facebook, and more.
+- Social Media Integration: Direct links to our social media pages on Facebook, and more.
 
 ## Technologies Used
 
